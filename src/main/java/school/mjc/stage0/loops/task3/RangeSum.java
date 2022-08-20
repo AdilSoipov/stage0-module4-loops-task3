@@ -7,6 +7,6 @@ public class RangeSum {
         sum += i;
     }
     System.out.println(sum);
-	}
+	
     }
 }
