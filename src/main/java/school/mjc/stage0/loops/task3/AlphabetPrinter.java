@@ -6,7 +6,7 @@ public class AlphabetPrinter {
    char c;
 
     for(c = 'a'; c <= 'z'; ++c){
-      System.out.print(c + " ");
+      System.out.println(c + " ");
     }
     }
 }
